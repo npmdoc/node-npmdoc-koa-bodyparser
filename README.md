@@ -1,9 +1,14 @@
-# api documentation for  [koa-bodyparser (v4.2.0)](https://github.com/koajs/body-parser)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-bodyparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-bodyparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser)
+# npmdoc-koa-bodyparser
+
+#### api documentation for  [koa-bodyparser (v4.2.0)](https://github.com/koajs/body-parser)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-bodyparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-bodyparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser)
+
 #### a body parser for koa
 
-[![NPM](https://nodei.co/npm/koa-bodyparser.png?downloads=true)](https://www.npmjs.com/package/koa-bodyparser)
+[![NPM](https://nodei.co/npm/koa-bodyparser.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/koa-bodyparser)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-koa-bodyparser_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-koa-bodyparser/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "dead_horse",
-        "email": "dead_horse@qq.com",
         "url": "http://deadhorse.me"
     },
     "bugs": {
@@ -61,17 +65,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "dead_horse",
-            "email": "dead_horse@qq.com"
+            "name": "dead_horse"
         },
         {
-            "name": "fengmk2",
-            "email": "fengmk2@gmail.com"
+            "name": "fengmk2"
         }
     ],
     "name": "koa-bodyparser",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/koajs/bodyparser.git"
@@ -98,16 +99,6 @@
     ]
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module koa-bodyparser](#apidoc.module.koa-bodyparser)
-
-
-
-# <a name="apidoc.module.koa-bodyparser"></a>[module koa-bodyparser](#apidoc.module.koa-bodyparser)
 
 
 
