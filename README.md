@@ -1,6 +1,6 @@
 # npmdoc-koa-bodyparser
 
-#### api documentation for  [koa-bodyparser (v4.2.0)](https://github.com/koajs/body-parser)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-bodyparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-bodyparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser)
+#### basic api documentation for  [koa-bodyparser (v4.2.0)](https://github.com/koajs/body-parser)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-bodyparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-bodyparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-bodyparser)
 
 #### a body parser for koa
 
@@ -96,7 +96,8 @@
             },
             "pkgid": "koa-bodyparser@4.2.0"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
